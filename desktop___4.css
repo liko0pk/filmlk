@@ -1,0 +1,95 @@
+/*
+	@name desktop___4
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1728px; width: 1728px; height: 1117px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__desktop___4 {
+	top: 0px;
+	left: 0px;
+	width: 1728px;
+	height: 1117px;
+	background:#;
+	background: -webkit-linear-gradient(-180deg , rgba(0,0,0,1) 0%, rgba(255,184,0,0.85000002384186) 100%);
+	background: -o-linear-gradient(-180deg , rgba(0,0,0,1) 0%, rgba(255,184,0,0.85000002384186) 100%);
+	background: -moz-linear-gradient(-180deg , rgba(0,0,0,1) 0%, rgba(255,184,0,0.85000002384186) 100%);
+	background: -ms-linear-gradient(-180deg , rgba(0,0,0,1) 0%, rgba(255,184,0,0.85000002384186) 100%);
+	background: linear-gradient(-180deg , rgba(0,0,0,1) 0%, rgba(255,184,0,0.85000002384186) 100%);
+}
+
+
+#rectangle_11 {
+	top: 116px;
+	left: 100px;
+	width: 302.46px;
+	height: 447px;
+}
+
+
+#_vector {
+	top: 10px;
+	left: 10px;
+	width: 60px;
+	height: 65px;
+}
+
+
+#_______________________________ {
+	top: 116px;
+	left: 500px;
+	width: 600px;
+	height: 120px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 42px;
+	font-weight: bold;
+	text-align: center;
+	-ms-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	color:#FFFFFF;
+}
+
+
+#_________________________________________________________________________________________________________________________________________________________________________________________________________________ {
+	top: 220px;
+	left: 500px;
+	width: 578px;
+	height: 186px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	-ms-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	color:#FFFFFF;
+}
+
+
+
+
+#rectangle_13 {
+	top: 639px;
+	left: 400px;
+	width: 897px;
+	height: 395px;
+
+}
+
+
+
+/* Add your custom CSS here */
